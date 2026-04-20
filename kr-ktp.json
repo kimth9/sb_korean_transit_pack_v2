@@ -2,7 +2,7 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "game_version": ">=1.3.0",
       "date": "2026-04-19",
       "changelog": "Public Release - Realistic Vehicle and construction cost data using Korean Official Data.",
