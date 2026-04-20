@@ -246,9 +246,8 @@ async function initMod() {
                 ELEVATED: 3.3
             },
             appearance: { color: '#77AF9C' }
-        });
+        }),
         API.ui.showNotification(`${CONFIG.MOD_NAME} loaded successfully!`, 'success')
-    );
 
 
     } catch (error) {
