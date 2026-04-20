@@ -1,0 +1,13 @@
+{
+  "id": "kr-ktp",
+  "name": "Korean Transit Pack",
+  "description": "Add Korean Style Transit and using real-vehicle data in Korea",
+  "version": "1.0.0",
+  "author": {
+    "name": "Budha"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "subway-builder": ">=1.3.0"
+  }
+}
